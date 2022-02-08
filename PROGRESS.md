@@ -1,0 +1,29 @@
+# Progress
+
+- [ ] **Introduction to CS and Programming using Python (MIT 6.100L)** · Intro CS · Nov 2026 – Feb 2027
+- [x] **The Missing Semester of Your CS Education (MIT)** · CS Tools · Feb 2027 – Mar 2027
+- [ ] **Systematic Program Design (UBC)** · Core programming · Apr 2027 – Jul 2027
+- [ ] **Calculus 1A: Differentiation (MIT 18.01.1x)** · Core math · Jul 2027 – Aug 2027
+- [ ] **Class-based Program Design (Northeastern CS 2510)** · Core programming · Aug 2027 – Nov 2027
+- [x] **Calculus 1B: Integration (MIT 18.01.2x)** · Core math · Nov 2027 – Dec 2027
+- [ ] **Programming Languages (UW CSE 341)** · Core programming · Dec 2027 – Mar 2028
+- [ ] **Calculus 1C: Coordinate Systems & Infinite Series (MIT 18.01.3x)** · Core math · Mar 2028 – Apr 2028
+- [ ] **Object-Oriented Design (Northeastern CS 3500)** · Core programming · Apr 2028 – Jun 2028
+- [ ] **Mathematics for Computer Science (MIT 6.042J)** · Core math · Jul 2028 – Oct 2028
+- [ ] **Software Architecture (University of Alberta)** · Core programming · Oct 2028 – Oct 2028
+- [ ] **Nand to Tetris Part I** · Core systems · Oct 2028 – Dec 2028
+- [ ] **Nand to Tetris Part II** · Core systems · Dec 2028 – Feb 2029
+- [ ] **Algorithms: Design and Analysis, Part 1 (Stanford)** · Core theory · Feb 2029 – Apr 2029
+- [ ] **Operating Systems: Three Easy Pieces** · Core systems · Apr 2029 – Jun 2029
+- [ ] **Algorithms: Design and Analysis, Part 2 (Stanford)** · Core theory · Jun 2029 – Sep 2029
+- [ ] **Computer Networking: a Top-Down Approach** · Core systems · Sep 2029 – Oct 2029
+- [ ] **Cybersecurity Fundamentals (RIT)** · Core security · Nov 2029 – Nov 2029
+- [ ] **Principles of Secure Coding (UC Davis)** · Core security · Nov 2029 – Dec 2029
+- [ ] **Identifying Security Vulnerabilities (UC Davis)** · Core security · Dec 2029 – Jan 2030
+- [ ] **Identifying Security Vulnerabilities in C/C++ (UC Davis)** · Core security · Jan 2030 – Jan 2030
+- [ ] **Databases: Modeling, SQL and Semistructured Data (Stanford)** · Core applications · Jan 2030 – Mar 2030
+- [ ] **Software Engineering: Introduction (UBC)** · Core applications · Mar 2030 – Apr 2030
+- [ ] **Machine Learning Specialization (Andrew Ng)** · Core applications · Apr 2030 – Jul 2030
+- [ ] **Computer Graphics (UCSD CSE 167)** · Core applications · Jul 2030 – Jul 2030
+- [ ] **Ethics, IP and Data Privacy** · Core ethics · Aug 2030 – Aug 2030
+- [ ] **Final project: Full Stack Open (University of Helsinki)** · Final project · Aug 2030 – Oct 2030
