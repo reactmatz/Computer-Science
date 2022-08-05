@@ -1,0 +1,19 @@
+# Day 0408 — Wednesday, 30 Aug 2023
+
+**Course:** [Programming Languages (UW CSE 341)](https://courses.cs.washington.edu/courses/cse341/19sp/#lectures) · Core programming
+**Topic:** Course review: Programming Languages (UW CSE 341)
+**Session:** Review · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Review the whole course so far: **Programming Languages (UW CSE 341)**.
+- [ ] Redo two exercises you struggled with.
+- [ ] Update your cheat sheet for this course.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
