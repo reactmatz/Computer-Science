@@ -1,0 +1,19 @@
+# Day 0428 — Wednesday, 27 Sep 2023
+
+**Course:** [Calculus 1C: Coordinate Systems & Infinite Series (MIT 18.01.3x)](https://openlearninglibrary.mit.edu/courses/course-v1:MITx+18.01.3x+1T2020/about) · Core math
+**Topic:** Convergence tests
+**Session:** Learn · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Watch or read the material on **Convergence tests** (≈45 min).
+- [ ] Write your own notes in the Notes section below, in your own words.
+- [ ] Write down 3 questions you still have about it.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
