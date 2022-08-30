@@ -1,0 +1,23 @@
+# Day 0468 — Wednesday, 22 Nov 2023
+
+**Course:** [Object-Oriented Design (Northeastern CS 3500)](https://course.ccs.neu.edu/cs3500f19/) · Core programming
+**Topic:** Builder and Factory patterns
+**Session:** Practice · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Re-read your notes on **Builder and Factory patterns**.
+- [ ] Solve the course exercises for this topic in the code file.
+- [ ] Write tests or examples for every function you write.
+
+## Code
+
+Work in [`code/2023-11-22-builder-and-factory-patterns.java`](code/2023-11-22-builder-and-factory-patterns.java).
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
