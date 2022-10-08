@@ -1,0 +1,19 @@
+# Day 0553 — Wednesday, 20 Mar 2024
+
+**Course:** [Mathematics for Computer Science (MIT 6.042J)](https://openlearninglibrary.mit.edu/courses/course-v1:OCW+6.042J+2T2019/about) · Core math
+**Topic:** Random variables and expectation
+**Session:** Learn · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Watch or read the material on **Random variables and expectation** (≈45 min).
+- [ ] Write your own notes in the Notes section below, in your own words.
+- [ ] Write down 3 questions you still have about it.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
