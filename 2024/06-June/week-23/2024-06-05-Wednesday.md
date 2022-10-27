@@ -1,0 +1,19 @@
+# Day 0608 — Wednesday, 05 Jun 2024
+
+**Course:** [Nand to Tetris Part I](https://www.nand2tetris.org/) · Core systems
+**Topic:** Sequential logic and memory
+**Session:** Learn · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Watch or read the material on **Sequential logic and memory** (≈45 min).
+- [ ] Write your own notes in the Notes section below, in your own words.
+- [ ] Write down 3 questions you still have about it.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
