@@ -1,0 +1,19 @@
+# Day 0633 — Wednesday, 10 Jul 2024
+
+**Course:** [Nand to Tetris Part I](https://www.nand2tetris.org/) · Core systems
+**Topic:** Course review: Nand to Tetris Part I
+**Session:** Review · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Review the whole course so far: **Nand to Tetris Part I**.
+- [ ] Redo two exercises you struggled with.
+- [ ] Update your cheat sheet for this course.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
