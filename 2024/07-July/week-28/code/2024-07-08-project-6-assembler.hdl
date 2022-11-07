@@ -1,0 +1,12 @@
+// Nand to Tetris Part I
+// Project — finish: Project 6: assembler
+//
+// Write your solutions below. Keep each exercise small and tested.
+
+CHIP Todo {
+    IN a, b;
+    OUT out;
+
+    PARTS:
+    // TODO
+}
