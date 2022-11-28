@@ -1,0 +1,19 @@
+# Day 0683 — Wednesday, 18 Sep 2024
+
+**Course:** [Nand to Tetris Part II](https://www.coursera.org/learn/nand2tetris2) · Core systems
+**Topic:** Recap week: Nand to Tetris Part II
+**Session:** Recap · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Consolidate **Nand to Tetris Part II**: re-read all notes and the cheat sheet.
+- [ ] Redo one project or problem set from memory.
+- [ ] Write a one-page summary of the course.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
