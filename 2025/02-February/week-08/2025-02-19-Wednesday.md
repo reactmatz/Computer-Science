@@ -1,0 +1,19 @@
+# Day 0793 — Wednesday, 19 Feb 2025
+
+**Course:** [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/) · Core systems
+**Topic:** Course review: Operating Systems: Three Easy Pieces
+**Session:** Review · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Review the whole course so far: **Operating Systems: Three Easy Pieces**.
+- [ ] Redo two exercises you struggled with.
+- [ ] Update your cheat sheet for this course.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
