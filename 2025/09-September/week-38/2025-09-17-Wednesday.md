@@ -1,0 +1,19 @@
+# Day 0943 — Wednesday, 17 Sep 2025
+
+**Course:** [Principles of Secure Coding (UC Davis)](https://www.coursera.org/learn/secure-coding-principles) · Core security
+**Topic:** Course review: Principles of Secure Coding (UC Davis)
+**Session:** Review · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Review the whole course so far: **Principles of Secure Coding (UC Davis)**.
+- [ ] Redo two exercises you struggled with.
+- [ ] Update your cheat sheet for this course.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
