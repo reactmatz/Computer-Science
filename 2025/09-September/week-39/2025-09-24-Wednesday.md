@@ -1,0 +1,19 @@
+# Day 0948 — Wednesday, 24 Sep 2025
+
+**Course:** [Principles of Secure Coding (UC Davis)](https://www.coursera.org/learn/secure-coding-principles) · Core security
+**Topic:** Recap week: Principles of Secure Coding (UC Davis)
+**Session:** Recap · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Consolidate **Principles of Secure Coding (UC Davis)**: re-read all notes and the cheat sheet.
+- [ ] Redo one project or problem set from memory.
+- [ ] Write a one-page summary of the course.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
