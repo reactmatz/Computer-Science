@@ -1,0 +1,19 @@
+# Day 1028 — Wednesday, 14 Jan 2026
+
+**Course:** [Databases: Modeling, SQL and Semistructured Data (Stanford)](https://www.edx.org/learn/relational-databases/stanford-university-databases-relational-databases-and-sql) · Core applications
+**Topic:** Course review: Databases: Modeling, SQL and Semistructured Data (Stanford)
+**Session:** Review · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Review the whole course so far: **Databases: Modeling, SQL and Semistructured Data (Stanford)**.
+- [ ] Redo two exercises you struggled with.
+- [ ] Update your cheat sheet for this course.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
