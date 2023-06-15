@@ -1,0 +1,19 @@
+# Day 1163 — Wednesday, 22 Jul 2026
+
+**Course:** [Ethics, IP and Data Privacy](https://www.coursera.org/learn/ethics-technology-engineering) · Core ethics
+**Topic:** Ethical frameworks in engineering
+**Session:** Apply · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Apply **Ethical frameworks in engineering** to a project you know (e.g. one of your client sites).
+- [ ] Write a short reflection (150–300 words).
+- [ ] Note what you would do differently.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
