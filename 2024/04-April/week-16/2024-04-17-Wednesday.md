@@ -1,0 +1,19 @@
+# Day 0573 — Wednesday, 17 Apr 2024
+
+**Course:** [Software Architecture (University of Alberta)](https://www.coursera.org/learn/software-architecture) · Core programming
+**Topic:** Architecture views and UML
+**Session:** Apply · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Apply **Architecture views and UML** to a project you know (e.g. one of your client sites).
+- [ ] Write a short reflection (150–300 words).
+- [ ] Note what you would do differently.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
