@@ -1,0 +1,19 @@
+# Day 0638 — Wednesday, 17 Jul 2024
+
+**Course:** [Nand to Tetris Part I](https://www.nand2tetris.org/) · Core systems
+**Topic:** Recap week: Nand to Tetris Part I
+**Session:** Recap · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Consolidate **Nand to Tetris Part I**: re-read all notes and the cheat sheet.
+- [ ] Redo one project or problem set from memory.
+- [ ] Write a one-page summary of the course.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
