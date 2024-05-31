@@ -1,0 +1,19 @@
+# Day 0963 — Wednesday, 15 Oct 2025
+
+**Course:** [Identifying Security Vulnerabilities (UC Davis)](https://www.coursera.org/learn/identifying-security-vulnerabilities) · Core security
+**Topic:** Course review: Identifying Security Vulnerabilities (UC Davis)
+**Session:** Review · ≈ 60–90 min
+
+## Tasks
+
+- [ ] Review the whole course so far: **Identifying Security Vulnerabilities (UC Davis)**.
+- [ ] Redo two exercises you struggled with.
+- [ ] Update your cheat sheet for this course.
+
+## Notes
+
+-
+
+## Done
+
+- [ ] Finished today's tasks
